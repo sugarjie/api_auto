@@ -15,7 +15,7 @@ import java.util.Map;
 public class BaseCase {
     @BeforeSuite
     public void beforeSuite() {
-        ApiUtils.addGlobalData("mobile_phone", "18301256351");
+        ApiUtils.addGlobalData("mobile_phone", "17301256351");
     }
 
     @DataProvider
